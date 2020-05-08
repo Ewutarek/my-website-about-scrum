@@ -1,6 +1,8 @@
-#What is scrum?
--An agile framework for getting work done and agile is a mindset. Scrum assists you in getting into an agile   mindset by practicing on building on the principles in all aspects of your life.
--It’s a reaction against waterfall therefore it focuses on breaking up work into smaller increments called sprints. This is a continuous process and adaptive to change.
+# What is scrum?
+
+- An agile framework for getting work done and agile is a mindset. Scrum assists you in getting into an agile   mindset by practicing on building on the principles in all aspects of your life.
+
+- It’s a reaction against waterfall therefore it focuses on breaking up work into smaller increments called sprints. This is a continuous process and adaptive to change.
 
 
 
