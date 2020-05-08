@@ -4,6 +4,8 @@
 
 * It’s a reaction against waterfall therefore it focuses on breaking up work into smaller increments called sprints. This is a continuous process and adaptive to change.
 
+![Sprint cycle img](https://wac-cdn.atlassian.com/dam/jcr:14abbbfb-5870-4c24-8b26-c5a56b25de59/scrum_process_atlassian.svg?cdnVersion=1000)
+
 
 # **How it works**
 It's a process broken down into sprints that take about 2 weeks and includes 4 ceremonies:
@@ -58,6 +60,8 @@ Lead the scrum within their teams by coaching teams, product owners, and the bus
 
 # **Backlog**
 
+![Backlog img](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdbcms.s3.amazonaws.com%2Fdevbridgecom%2Fbcms%2Fimage%2F16ded07f8edc4a0c911ae16c511ef241%2FScrumBacklog.jpg&f=1&nofb=1)
+
 * Prioritized list of work for the dev team that stems from the roadmap and its requirements (Two R’s)
 
     * Product owner isn’t setting the pace or pushing the dev team. The dev team self-organises by pulling work from the backlog in an appropriate framework e.g. continually or iterative. 
@@ -73,6 +77,7 @@ Lead the scrum within their teams by coaching teams, product owners, and the bus
     * Symbiotic relationships between work items (e.g. B is easier if we do A first)
 
 ## Keeping the backlog healthy
+
 * Backlog grooming = Keep it maintained to keep pace with the program by having the product owners review it before each sprint   planning to make sure feedback and prioritization is correctly reflected based on the last iteration.
 
 * As it gets bigger it needs to be restructured into near and long term items by the product manager.
