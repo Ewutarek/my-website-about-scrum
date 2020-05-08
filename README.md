@@ -45,6 +45,8 @@ It's a process broken down into sprints that take about 2 weeks and includes 4 c
 
 ## Scrum development team
 
+![Development Team img](https://wac-cdn.atlassian.com/dam/jcr:f085fea0-5149-4b9a-9fe1-7e9fd32dc0da/Scrum-Development%20team-revised.png?cdnVersion=1000)
+
     * The workforce who see the sustainability of scrum through
     * Team is big enough to share 2 pizzas (according to Jeff Bezos)
     * Different skillsets but have a ‘we’ attitude thus making sure that no-one becomes a bottleneck by cross training. 
@@ -55,7 +57,7 @@ It's a process broken down into sprints that take about 2 weeks and includes 4 c
 * Prioritized list of work for the dev team that stems from the roadmap and its requirements (Two R’s)
 
     * Product owner isn’t setting the pace or pushing the dev team. The dev team self-organises by pulling work from the backlog in an appropriate framework e.g. continually or iterative. 
-    
+
 ## The Two R’s
 
    * A team's roadmap and requirements provide the foundation for the product backlog.
