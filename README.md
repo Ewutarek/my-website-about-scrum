@@ -8,20 +8,27 @@
 # How it works
 It's a process broken down into sprints that take about 2 weeks and includes 4 ceremonies:
 
-* Sprint planning
+* ## Sprint planning
+
 The work to be performed (scope) during the current sprint is planned during this meeting by the entire development team. This meeting is led by the scrum master and is where the team decides on the sprint goal.At the end of the planning meeting, every scrum member needs to be clear on what can be delivered in the sprint and how the increment can be delivered.
 
-* Daily Scrum or Stand Up
-Short morning meetings (about 15 mins) to ensure people are aligned with the sprint goal for next 24hrs. 
-What did I do yesterday?
- What do I plan to do today?
- Are there any obstacles?
+* ## Daily Scrum or Stand Up
 
-* Sprint Reviews
+Short morning meetings (about 15 mins) to ensure people are aligned with the sprint goal for next 24hrs:
+ - What did I do yesterday?
+ - What do I plan to do today?
+ - Are there any obstacles?
+
+* ## Sprint Reviews
 Team gathers to view a demo of, or inspect, the increment at the end of the sprint. Development team forwards the completed backlog tasks to stakeholders and teammates for feedback. If not up to scratch the product owner can decide whether or not to release the increment.
 
-* Sprint retrospective
+* ## Sprint Retrospective
+
 Documentation of fails and successes in a sprint, a project, people or relationships, tools, or even for certain ceremonies. This helps teams to highlight what needs to be improved for next time.
+
+
+
+
 
 
 
