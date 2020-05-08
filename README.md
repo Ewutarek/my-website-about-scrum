@@ -50,6 +50,28 @@ It's a process broken down into sprints that take about 2 weeks and includes 4 c
     * Different skillsets but have a ‘we’ attitude thus making sure that no-one becomes a bottleneck by cross training. 
     * Self-organized and drive the plan for the sprints by forecasting how much work can be completed based on previous data 
 
+# **Backlog**
+
+* Prioritized list of work for the dev team that stems from the roadmap and its requirements (Two R’s)
+
+    * Product owner isn’t setting the pace or pushing the dev team. The dev team self-organises by pulling work from the backlog in an appropriate framework e.g. continually or iterative. 
+    
+## The Two R’s
+
+   * A team's roadmap and requirements provide the foundation for the product backlog.
+   * Roadmap initiatives break down into several epics, and each epic will have several requirements and user stories.
+   * The product owner then organizes each of the user stories into a single list for the development team depending on:
+       * Customer priority
+       * Urgency of getting feedback
+       * Relative implementation difficulty
+       * Symbiotic relationships between work items (e.g. B is easier if we do A first)
+
+## Keeping the backlog healthy
+   * Backlog grooming = Keep it maintained to keep pace with the program by having the product owners review it before each sprint   planning to make sure feedback and prioritization is correctly reflected based on the last iteration.
+
+   * As it gets bigger it needs to be restructured into near and long term items by the product manager.
+
+
 
 
 
