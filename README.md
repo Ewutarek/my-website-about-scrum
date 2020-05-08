@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+#What is scrum?
+-An agile framework for getting work done and agile is a mindset. Scrum assists you in getting into an agile   mindset by practicing on building on the principles in all aspects of your life.
+-It’s a reaction against waterfall therefore it focuses on breaking up work into smaller increments called sprints. This is a continuous process and adaptive to change.
+
+
+
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Ewutarek/my-website-about-scrum/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
