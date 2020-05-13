@@ -3,6 +3,7 @@ body{
     padding: 0px 90px;
 }
 
+/* ------------------------------------------------------------------------------------------------------ */
 h1{
     color:#ffffff ;
     text-align: center;
@@ -11,14 +12,16 @@ h1{
     padding: 0px 90px;
     height: 40px;
 }
+/* ------------------------------------------------------------------------------------------------------ */
 
+/* Styles for navbar(Reminder:  it sticks to the top)*/
 nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position: -webkit-sticky; /* Safari */
+  position: -webkit-sticky; /* for Safari */
   position: sticky;
   top: 0;
 }
@@ -38,25 +41,25 @@ nav li a {
   nav li a:hover {
     background-color: #111;
   }
-
+/* ------------------------------------------------------------------------------------------------------ */
 h2{
     color:  #000000;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 100px;
 }
-
+/* ------------------------------------------------------------------------------------------------------ */
 h3{
     color: #000000; 
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 100px;
 }
-
+/* ------------------------------------------------------------------------------------------------------ */
 p{
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 100px;
 }
-
+/* ------------------------------------------------------------------------------------------------------ */
 ul{
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
@@ -68,7 +71,9 @@ dt{
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 100px;
 }
+/* ------------------------------------------------------------------------------------------------------ */
 
+/* Styles for all images */
 img{
     display: block;
     margin-left: auto;
@@ -82,7 +87,9 @@ img:hover {
     width: 40%;
     height: 40%;
   }
+/* ------------------------------------------------------------------------------------------------------ */
 
+  /* Styles for Scrum vs Kanban table(though can be applied to all tables) */
   table{
       width: 75%;
       margin-left: 100px;
@@ -98,5 +105,6 @@ img:hover {
   th{
     text-align: left;
    }
+/* ------------------------------------------------------------------------------------------------------ */
 
   
