@@ -8,9 +8,11 @@ h1{
     color:#ffffff ;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
     background-color:#000000;
-    padding: 0px 90px;
-    height: 40px;
+    padding: 40px 90px;
+    height: 60px;
+    font-size: 50px;
 }
 /* ------------------------------------------------------------------------------------------------------ */
 
@@ -39,13 +41,14 @@ nav li a {
   }
 
   nav li a:hover {
-    background-color: #111;
+    background-color: #474747;
   }
 /* ------------------------------------------------------------------------------------------------------ */
 h2{
     color:  #000000;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 100px;
+    text-decoration: underline;
 }
 /* ------------------------------------------------------------------------------------------------------ */
 h3{
